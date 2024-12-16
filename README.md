@@ -7,9 +7,9 @@ O objetivo deste projeto é desenvolver o protótipo de um aplicativo de gestão
 Embora ainda seja um protótipo, ele visa demonstrar como um app de gestão financeira pode transformar a maneira como as pessoas lidam com seu dinheiro, tornando a administração financeira mais acessível e organizada. A ideia é fornecer uma base sólida para futuras melhorias e implementações, com foco em usabilidade e design intuitivo para tornar o processo de gestão financeira mais agradável e eficiente.
 ## Acesse o Protótipo
 
-Clique no link abaixo para acessar o protótipo do meu app de música:
+Clique no link abaixo para acessar o protótipo do meu app de gestão financeira:
 
-[Visualizar Protótipo de Música](https://www.figma.com/proto/SseqyFAXoh58zAFRoqYEYg/Untitled?node-id=1-2&p=f&t=nswQUPxc5iDVotFt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+[Visualizar Protótipo ](https://www.figma.com/proto/SseqyFAXoh58zAFRoqYEYg/Untitled?node-id=1-2&p=f&t=nswQUPxc5iDVotFt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ---
 
